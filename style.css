@@ -29,7 +29,7 @@ nav ul li{
 	margin-right:20px;
 }
 .btn{
-	display:inline-block;
+	display:flex;
 	background:#ff523b;
 	color:#fff;
 	margin:30px 0;
@@ -37,6 +37,7 @@ nav ul li{
 	border-radius:30px;
 	transition:background 0.1s;
 	align-items: centre;
+	justify-content: centre;
 }
 .btn:hover{
 	background:#c04949;
