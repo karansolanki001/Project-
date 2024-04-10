@@ -36,6 +36,7 @@ nav ul li{
 	padding:8px 30px;
 	border-radius:30px;
 	transition:background 0.1s;
+	align-items: centre;
 }
 .btn:hover{
 	background:#c04949;
