@@ -16,6 +16,11 @@ nav{
 	flex:1;
 	text-align:right;
 }
+h1{
+	align-items: centre;
+	justify-content: centre;
+}
+
 nav ul{
 	display:inline-block;
 	list-style-type:none;
