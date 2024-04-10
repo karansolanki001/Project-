@@ -38,6 +38,7 @@ nav ul li{
 	transition:background 0.1s;
 	align-items: centre;
 	justify-content: centre;
+	flex-direction: column;
 }
 .btn:hover{
 	background:#c04949;
