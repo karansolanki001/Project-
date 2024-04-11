@@ -90,3 +90,6 @@ nav ul li{
 	justify-content: Center;
 	display:flex;
 }
+sub button {
+	margin-right:20px
+}
